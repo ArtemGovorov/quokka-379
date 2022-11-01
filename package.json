@@ -23,7 +23,7 @@
     "http": "0.0.0",
     "jsdom-quokka-plugin": "^1.0.14",
     "react": "^16.3.1",
-    "react-native": "^0.55.4",
+    "react-native": "^0.70.4",
     "react-native-device-info": "^0.21.5",
     "react-native-fused-location": "^0.2.1",
     "react-native-keychain": "^3.0.0",
