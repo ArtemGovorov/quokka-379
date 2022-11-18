@@ -40,7 +40,7 @@
     "reflect-metadata": "^0.1.13",
     "ts-node": "^8.2.0",
     "tsutils": "^2.29.0",
-    "webpack": "^2.7.0"
+    "webpack": "^5.75.0"
   },
   "devDependencies": {
     "@types/jest": "^23.3.14",
